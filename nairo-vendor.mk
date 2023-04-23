@@ -119,9 +119,6 @@ PRODUCT_PACKAGES += \
     libmotaudioutils \
     libtinyalsa-moto \
     libtinycompress_vendor \
-    libmaxxeffect-cembedded \
-    libmmieffectswrapper \
-    libspeakerbundle \
     com.mot.eeprom.mot_dw9767_s5kgm1sp_eeprom \
     com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom \
     com.mot.eeprom.mot_gt24p64b_ov2180_eeprom \
