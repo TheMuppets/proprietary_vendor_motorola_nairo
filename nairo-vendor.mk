@@ -111,14 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nairo/proprietary/vendor/usr/keylayout/uinput-fpc.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpc.kl
 
 PRODUCT_PACKAGES += \
-    audio.primary.lito-moto \
-    sound_trigger.primary.lito \
-    libAndroidAlgSys \
-    libMAM2_3-AlgFX-Coretex_A9 \
-    libc++_shared \
-    libmotaudioutils \
-    libtinyalsa-moto \
-    libtinycompress_vendor \
     com.mot.eeprom.mot_dw9767_s5kgm1sp_eeprom \
     com.mot.eeprom.mot_gt24p64b_ov16a1q_eeprom \
     com.mot.eeprom.mot_gt24p64b_ov2180_eeprom \
