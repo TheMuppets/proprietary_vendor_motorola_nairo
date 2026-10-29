@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/aec_golden_depth.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/aec_golden_depth.bin \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/aec_golden_wide.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/aec_golden_wide.bin \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/arcsoft_calibration_u_dc.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/arcsoft_calibration_u_dc.bin \
+    vendor/motorola/nairo/proprietary/vendor/etc/camera/arcsoft_standalone_calibration_u_dc.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/arcsoft_standalone_calibration_u_dc.bin \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/dual_golden_depth.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/dual_golden_depth.bin \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/dual_golden_wide.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/dual_golden_wide.bin \
     vendor/motorola/nairo/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
